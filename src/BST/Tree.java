@@ -10,6 +10,7 @@ public class Tree {
     }
 
     //search for a node, given its data
+    //test push
     public Node search(int data){
         Node node=root;
         if(root==null){
